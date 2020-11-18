@@ -1,4 +1,4 @@
-# error---archivos-corruptos
+# error-archivos-corruptos
 
 ## sfc /scannow
 ## Dism.exe /online /Cleanup-Image /StartComponentCleanup 
